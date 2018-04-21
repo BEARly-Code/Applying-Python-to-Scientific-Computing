@@ -9,4 +9,8 @@ In this course we will learn the programming language [Python](https://python.or
 Python is a Programming language that is run on computer systems by the use of the python interpreter, different version of Python exist but we shall learn Python by using IPython, an "interactive version of Python"
 
 ## Tool Set
-![](https://matplotlib.org/_static/logo2.png)
+![iPython](http://ipython.org/_static/IPy_header.png)
+![Jupyter Notebooks](http://jupyter.org/assets/nav_logo.svg)
+![SciPy](https://scipy.org/_static/images/scipy_med.png)
+![NumPy](http://www.numpy.org/_static/numpy_logo.png)
+![Plotting Graphs With](https://matplotlib.org/_static/logo2.png)
